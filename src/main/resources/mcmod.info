@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gb-mba-customnpcs",
+  "name": "Mo' Bends Addon - Custom NPCs",
+  "description": "A Mo' Bends addon that adds animations for Custom NPCs.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["GoblinBob"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
