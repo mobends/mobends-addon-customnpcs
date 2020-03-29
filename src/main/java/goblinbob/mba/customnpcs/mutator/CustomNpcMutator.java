@@ -1,5 +1,6 @@
-package goblinbob.mba.customnpcs.main;
+package goblinbob.mba.customnpcs.mutator;
 
+import goblinbob.mba.customnpcs.data.CustomNpcData;
 import goblinbob.mobends.core.data.IEntityDataFactory;
 import goblinbob.mobends.standard.mutators.BipedMutator;
 import net.minecraft.client.model.ModelBase;

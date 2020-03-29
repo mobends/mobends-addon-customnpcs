@@ -1,5 +1,7 @@
 package goblinbob.mba.customnpcs.main;
 
+import goblinbob.mba.customnpcs.data.CustomNpcData;
+import goblinbob.mba.customnpcs.mutator.CustomNpcMutator;
 import goblinbob.mobends.core.addon.IAddon;
 import goblinbob.mobends.core.bender.AddonAnimationRegistry;
 import goblinbob.mobends.standard.client.renderer.entity.mutated.BipedRenderer;

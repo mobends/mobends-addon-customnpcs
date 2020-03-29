@@ -1,5 +1,6 @@
-package goblinbob.mba.customnpcs.main;
+package goblinbob.mba.customnpcs.animation.controller;
 
+import goblinbob.mba.customnpcs.data.CustomNpcData;
 import goblinbob.mobends.core.animation.bit.AnimationBit;
 import goblinbob.mobends.core.animation.controller.IAnimationController;
 import goblinbob.mobends.core.animation.layer.HardAnimationLayer;
