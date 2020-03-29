@@ -10,4 +10,7 @@ First of all, you have to have three jars:
 - CustomNPCs mod jar.
 
 ### Building
-Clone this repository. Then, get a Minecraft version appropriate Forge MDK, extract it into the same folder as the git repository **(don't replace existing files)**.
+1. Clone this repository. Then, get a Minecraft version appropriate Forge MDK, extract it into the same folder as the git repository **(don't replace existing files)**.
+
+2. Then create a ```libs``` folder, and put all the dependency jars (downloaded in the previous step) into that folder.
+3. Proceed with normal mod development <3.
